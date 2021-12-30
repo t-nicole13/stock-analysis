@@ -23,7 +23,7 @@ Disadvantages of Refactoring Code:<br/>
 Refactored code could take longer to create than the original.  It can be time consuming to figure out how to make the original code more efficient. Another disadvantage is not receiving the same output as the original.  
 
 Advantages of the Original/Refactored Script:<br/>
-I didn't receive any errors while working on the original script.  It was straighforward and did not have as many arrays.  
+I didn't receive any errors while working on the original script.  It was straighforward and did not have as many arrays.   Refactored code displayed the outpt faster.
 
 Disadvantages of the Original/Refactored Script: <br/>
 The refactored script kept giving confusing overflow errors for the following lines: tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value and  Cells(4 + 3, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1.  After, reading about overflow errors, I still could not understand what the issue was.  

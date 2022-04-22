@@ -1,8 +1,16 @@
 # stock-analysis
 
 ## Overview of Project 
-The purpose of this project was to refactor the code that was created in the module 2.   We want to improve the design of the code without changing the output once the code is run.  The code in module 2 and the refactored code should yield the same output.  <br/>
+The purpose of this project was to refactor code that was previously created using VBA (Visual Basic for Applications).  VBA is the programming lanugage for Excel.  
 
+I wanted to improve the design of the code without changing the output once the code is run.  The original code and my refactored code should yield the same output.  Additionally, my refactored code should allow the code to look cleaner and run faster.  
+
+At the click of a button created in Excel, users should be able to click a button and analyze an entire dataset for the year they chose.
+
+  
+
+## Resources
+- Excel 2019
 
 ## Results
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/33010018/147714693-0a4d48ea-7638-4691-b8ed-6f3c8db49b1b.png)
